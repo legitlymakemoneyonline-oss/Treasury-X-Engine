@@ -1,0 +1,6 @@
+{
+  "name": "TiggyBank Treasury X",
+  "description": "Bitcoin Reserve. Polygon Growth Engine. Real Treasury Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
